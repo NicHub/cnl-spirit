@@ -3,13 +3,8 @@
   
   <url>
     <loc>http://nichub.github.io/cnl-spirit/</loc>
-    <lastmod>2015-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://nichub.github.io/cnl-spirit/therapies/veinologie/</loc>
-    <lastmod>2015-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,8 +73,13 @@
   </url>
   
   <url>
-    <loc>http://nichub.github.io/cnl-spirit/therapies/aromatherapie/</loc>
+    <loc>http://nichub.github.io/cnl-spirit/therapies/veinologie/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nichub.github.io/cnl-spirit/therapies/aromatherapie/</loc>
+    <lastmod>2015-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,11 +89,6 @@
   
   <url>
     <loc>http://nichub.github.io/cnl-spirit/</loc>
-    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nichub.github.io/cnl-spirit/divers/coin-lecture/</loc>
     <lastmod>2013-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,18 +183,18 @@
   </url>
   
   <url>
-    <loc>http://nichub.github.io/cnl-spirit/articles/prevention-hiver/</loc>
-    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nichub.github.io/cnl-spirit/divers/sites-d-interet/</loc>
-    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://nichub.github.io/cnl-spirit/therapeutes/philippe-gamondes/</loc>
     <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nichub.github.io/cnl-spirit/ressources/sites-d-interet/</loc>
+    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nichub.github.io/cnl-spirit/ressources/prevention-hiver/</loc>
+    <lastmod>2015-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -210,6 +205,11 @@
   <url>
     <loc>http://nichub.github.io/cnl-spirit/therapeutes/martine-bergamin/</loc>
     <lastmod>2014-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nichub.github.io/cnl-spirit/ressources/coin-lecture/</loc>
+    <lastmod>2013-12-14T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
