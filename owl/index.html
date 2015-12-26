@@ -36,44 +36,65 @@
 	
 	
 	
-  </head>
-  <body>
 
-<section id="feature" class="transparent-bg">
-	<div class="container">
 
-		<h2>Désolé, la page demandée n’existe pas</h2>
-		<p><a href="http://nichub.github.io/cnl-spirit/">Retourner à l’accueil</a></p>
+	<link rel="stylesheet" media="screen" href="http://nichub.github.io/cnl-spirit/css/owl.carousel.css"  />
 
+
+
+</head>
+<body>
+
+<div class="container">
+	<div class="section-title center">
+		<h2>Livre <strong>d’or</strong></h2>
+		<div class="line">
+			<hr />
+		</div>
 	</div>
-</section>
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+			<div id="testimonial" class="owl-carousel owl-theme">
 
-<script type="text/javascript">
-	t1 = window.setTimeout( function(){ window.location = "/"; }, 3000 );
-</script>
-
-<nav id="footer">
-	<div class="container">
-		<div class="pull-left fnav">
-
-<p>
-© CNL-Naturopathie Lausanne — Webmaster <a href="mailto:nicolas.jeanmonod@bluewin.ch">Nicolas Jeanmonod</a> — <a href="https://dribbble.com/shots/1817781--FREEBIE-Spirit8-Digital-agency-one-page-template">thème SPIRIT8 </a>
-</p>
-
+				<div class="item">
+					<h5>Un grand merci au CNL !</h5>
+					<p><strong>Denise Martin</strong>, Lausanne</p>
 				</div>
 
+				<div class="item">
+					<h5>Résultats extraordinaires !</h5>
+					<p><strong>Samuel Hun</strong>, Préverenges</p>
+				</div>
+
+				<div class="item">
+					<h5>Je me sens revivre !</h5>
+					<p><strong>Louise Yah</strong>, Yverdon</p>
+				</div>
+
+			</div>
+		</div>
 	</div>
-</nav>
+</div>
 
-<script type="text/javascript" src="http://nichub.github.io/cnl-spirit/js/jquery-1.11.3.min.js"></script>
 
-<script type="text/javascript" src="http://nichub.github.io/cnl-spirit/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="http://nichub.github.io/cnl-spirit/js/SmoothScroll.js"></script>
-<script type="text/javascript" src="http://nichub.github.io/cnl-spirit/js/jquery.isotope.js"></script>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://nichub.github.io/cnl-spirit/js/owl.carousel.js"></script>
 
+<script type="text/javascript">
+	var owl = $('.owl-carousel');
+	owl.owlCarousel({
+		items:2,
+		loop:true,
+		margin:10,
+		autoplay:true,
+		autoplayTimeout:1000,
+		autoplayHoverPause:true
+	});
+</script>
 
-<script type="text/javascript" src="http://nichub.github.io/cnl-spirit/js/main.js"></script>
-<script type="text/javascript" src="http://nichub.github.io/cnl-spirit/js/targetBlank.js"></script>
+
 </body>
 </html>
